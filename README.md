@@ -1,2 +1,2 @@
-[Visit the Live Project](https://rushbob843-sketch.github.io/html-only/)
+[Visit the Live Project](https://roadmap.sh/projects/single-page-cv)
 
