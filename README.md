@@ -1,2 +1,3 @@
 # html-only
-[http://127.0.0.1:5501/website.html)
+Check out the live project here: [View Live Project](https://your-project-url.com)
+
